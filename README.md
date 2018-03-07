@@ -42,13 +42,13 @@ After completing the [installation](#installation) step, you're ready to start t
 }
 ```
 
-<img src="/screenshot/img01.png" width="650">
+<img src="/screenshot/img01.png">
 
 
 ### 2. 存取 Protected 路徑
 **方法:** GET
 
-**說明:** *登入後取得 JWT(idToken) 後拿取 JWT 存取此路徑內容*
+**說明:** *登入後取得 JWT(idToken) 後拿取 JWT 存取此路徑內容*
 
 **路徑:** localhost:3030/api/protected
 
@@ -72,7 +72,7 @@ Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Im5hbWUiO
 }
 ```
 
-<img src="/screenshot/img02.png" width="650">
+<img src="/screenshot/img02.png">
 
 
 ## LICENSE
